@@ -8,7 +8,8 @@ importing google fonts
 }
 
 body{
-    background: #00e600;
+     background: #00e600; 
+
 }
 
 ::selection{
@@ -340,7 +341,7 @@ footer button.show{
 }
 
 .result_box .score_text span p{
-    padding: 0 4px;
+    padding: 1px  4px;
     font-weight: 600;
 }
 
@@ -384,7 +385,7 @@ footer button.show{
 
 /* Add a basic reset and font-family for body */
 body {
-    background: #00e600;
+    /* background: #00e600; */
     font-family: 'Poppins', sans-serif;
     margin: 0;
     padding: 0;
